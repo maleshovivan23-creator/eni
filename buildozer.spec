@@ -2,6 +2,7 @@
 title = ENI
 package.name = eni
 package.domain = org.eni
+version = 0.1
 source.dir = .
 source.include_exts = py
 requirements = python3,kivy
